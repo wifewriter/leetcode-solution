@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="LeetCode" targetName="LeetCode" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64cf4d86-3855-4604-8f6b-cf6d0b87b1cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1YMwWMIP0EntK68ICQ49Iv4Wqs4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/gitrepository" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LeetCode" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeetCode" TARGET_NAME="LeetCode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeetCode" RUN_TARGET_NAME="LeetCode">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64cf4d86-3855-4604-8f6b-cf6d0b87b1cf" name="Default Changelist" comment="" />
+      <created>1582765801956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582765801956</updated>
+      <workItem from="1582765814361" duration="8553000" />
+      <workItem from="1582882819634" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="41" key="#Inspections" timestamp="1582771482270">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="41" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1582771482270" />
+    <state width="1366" height="195" key="GridCell.Tab.0.bottom" timestamp="1582783788940">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1366" height="195" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582783788940" />
+    <state width="1366" height="195" key="GridCell.Tab.0.center" timestamp="1582783788940">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1366" height="195" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1582783788940" />
+    <state width="1366" height="195" key="GridCell.Tab.0.left" timestamp="1582783788940">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1366" height="195" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1582783788940" />
+    <state width="1366" height="195" key="GridCell.Tab.0.right" timestamp="1582783788940">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1366" height="195" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1582783788940" />
+    <state width="1366" height="242" key="GridCell.Tab.1.bottom" timestamp="1582783788936">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1366" height="242" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582783788936" />
+    <state width="1366" height="242" key="GridCell.Tab.1.center" timestamp="1582783788936">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1366" height="242" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1582783788936" />
+    <state width="1366" height="242" key="GridCell.Tab.1.left" timestamp="1582783788936">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1366" height="242" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1582783788936" />
+    <state width="1366" height="242" key="GridCell.Tab.1.right" timestamp="1582783788936">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1366" height="242" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1582783788936" />
+    <state x="363" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1582882834670">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1582882834670" />
+    <state x="234" y="119" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582779089948">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="234" y="119" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.768@0.0.1366.768" timestamp="1582779089948" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LeetCode6.c</url>
+          <line>24</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LeetCode6.c</url>
+          <line>18</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
